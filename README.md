@@ -4,7 +4,8 @@ Project is about designing a Trained Neural n/w (CIFAR-10 dataset) on FPGA to cl
 There are 6 Layers(Sliding Window Convolution, ReLU Activation, Max Pooling, Flattening, Fully Connected and Softmax Activation) which decides the class of our I/P Image. Kernels/Filters are used for feature detection from an Image I/P. Image I/P can be a Greyscale/Colored one.
 
 # Tools Used
-1. Xilinx Vivado 17.4
+1. Xilinx Vivado v17.4
+2. Matlab vR2018.a
 
 # Tasks Achieved
 1. Got some basic knowledge about FPGA and its Resources, Vivado 17.4, Matlab R2018a.
