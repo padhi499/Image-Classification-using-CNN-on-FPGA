@@ -13,5 +13,4 @@ Xilinx Vivado 17.4, Matlab R2018.a
 4. A Grey-scale Image was considered first (Took a Colored Image(3D Matrix) and Converted to Greyscale Image(2D Matrix) using Matlab) and compared results for both (Verilog modules & Matlab functions) for Matrix Multiplication and ReLU Activation. Results were matching. 
 
 # Contributor
-Abhinas Padhi(FPGA Design Engineer)
-Shivkumar V(B. M. S. College of Engineering, Bangalore)
+Abhinas Padhi(FPGA Design Engineer),  Shivkumar V(B. M. S. College of Engineering, Bangalore)
