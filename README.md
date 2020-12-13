@@ -7,6 +7,9 @@ There are 6 Layers(Sliding Window Convolution, ReLU Activation, Max Pooling, Fla
 1. Xilinx Vivado v17.4
 2. Matlab vR2018.a
 
+# Languages Used
+1. Verilog HDL
+
 # Tasks Achieved
 1. Got some basic knowledge about FPGA and its Resources, Vivado 17.4, Matlab R2018a.
 2. Verilog modules were created(Matrix Multiplication, Generic MUX, Matrix Convolution, ReLU Activation, Max Pooling) using Vivado 17.4.
