@@ -5,7 +5,6 @@ There are 6 Layers(Sliding Window Convolution, ReLU Activation, Max Pooling, Fla
 
 # Tools Used
 1. Xilinx Vivado 17.4
-2. Matlab R2018.a
 
 # Tasks Achieved
 1. Got some basic knowledge about FPGA and its Resources, Vivado 17.4, Matlab R2018a.
